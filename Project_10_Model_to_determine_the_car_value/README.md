@@ -11,4 +11,14 @@
 Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Time, Lightgbm, Xgboost, Catboost
 
 *Выводы:*  
+Всего было проанализировано 5 моделей, среди которых были получены следующие результаты:
+
+|модели|время обучениясек|время предсказания|качество(RMSE)|
+|---|---|---|---|
+|LinearRegression|9с|167 мс|0.59|
+|Gradient Boosting|1ч 35м 13с|294 мс|0.4|
+|XGBoost|12м 43с|294 мс|0.4|
+|LightGBM|13с|0.3 с|0.4|
+|CatBoostRegressor|22c|0.5|0.4|
+
 - Лучшая оценка - RMSE = 1889.2 с моделью LightGBM.

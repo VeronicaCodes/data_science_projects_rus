@@ -12,4 +12,4 @@
 Pandas, Numpy, Sklearn
 
 *Выводы:*  
-- Лучшая оценка - f1_score = 0.5938, auc_roc = 0.8531 с моделью GradientBoostingClassifier.
+- Лучшая оценка - f1_score = 0.61, auc_roc = 0.76 с моделью RandomForest.

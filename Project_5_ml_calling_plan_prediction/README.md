@@ -7,4 +7,4 @@ Pandas, Numpy, Sklearn, statsmodels
 
 Выводы:
 
-Лучшая оценка - accuracy = 0.8 (80%), с моделью Random Forest.
+Лучшая оценка - accuracy = 0.8 (80%), с моделью Random Forest с максимальной глубиной = 29 и счетчиком значений = 27.

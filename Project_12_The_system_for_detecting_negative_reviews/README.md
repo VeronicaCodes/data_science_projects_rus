@@ -8,7 +8,16 @@
 - Научить модель автоматически обнаруживать негативные отзывы, используя набор данных рецензий фильмов IMBD с маркировкой полярности.
 
 *Инструменты:*  
-Pandas, Matplotlib, Numpy, Math, Seaborn, Sklearn, Tqdm, Spacy, Re, Nltk, Lightgbm, Pytorch
+Pandas, Matplotlib, Numpy, Math, Seaborn, Sklearn, Tqdm, Nltk, Lightgbm
 
 *Выводы:*  
-- Лучшая оценка - f1_score = 0.86 (test) с использованием модели BERT.
+**Вывод:** Всего было проанализировано 3 модели, среди которых:
+
+|модели|время обучения|качество valid(F1_score)|
+|---|---|---|
+|LogisticRegression|5.49s|0.77|
+|DecisionTree|31.6s|0.65|
+|CatBoost|3m 27s|0.68|
+
+- Лучшая оценка на модели Logistic Regression - модель с наилучшим значением F1, равным 0.77 на тестовой выборке и на валидационной. Время обучения в среднем равно 0.5 секундам.
+

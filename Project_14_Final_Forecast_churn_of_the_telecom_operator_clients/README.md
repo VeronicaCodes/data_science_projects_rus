@@ -12,4 +12,15 @@
 Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Imblearn, Lightgbm, Xgboost, Catboost
 
 *Выводы:*  
-- Лучшая оценка -  'roc_auc' = 0.8997, 'accuracy' = 0.8493 с моделью Catboost.
+Всего было проанализировано 6 моделей, среди которых:
+
+|Mодель|AUC-ROC|Accuracy|F1-score|train time (sec)|	
+|---|---|---|---|---|
+|DecisionTreeClassifier|0.80|0.76|0.59|67 s|
+|RandomForestClassifier|0.82|0.77|0.57|46 s|
+|LogisticRegression|0.80|0.75|0.59|120 s|
+|CatBoostClassifier|0.89|0.83|0.69|210 s|
+|XGBClassifier|0.87|0.82|0.65|170 s|
+|LGBMClassifier|0.85|0.80|0.63|32 s|
+
+- Лучшая оценка -  'roc_auc' = 0.89, 'accuracy' = 0.84 с моделью Catboost.

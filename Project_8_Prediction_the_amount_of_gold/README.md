@@ -11,4 +11,5 @@
 Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Scipy
 
 *Выводы:*  
-- Лучшая оценка - full_smape = 8.72 с моделью RandomForestRegressor.
+- Лучшая оценка sMAPE = 0.09 с моделью RandomForestRegressor (чем ближе значение sMAPE к нулю, тем выше качество модели)
+
