@@ -3,7 +3,7 @@
 *Описание:*  
 
 Разработать систему фильтрации и категоризации рецензий фильмов, чтобы:  
-- Научить модель автоматически обнаруживать негативные отзывы, используя набор данных рецензий фильмов IMBD с маркировкой полярности.
+- Научить модель автоматически обнаруживать негативные отзывы, используя набор данных рецензий фильмов IMBd с маркировкой полярности.
 
 *Инструменты:*  
 
@@ -26,7 +26,7 @@ ________________________________________________________________________________
 *Description:*
 
 Develop a system for filtering and categorizing movie reviews in order to:
-- Train the model to automatically detect negative reviews using the polarity-labeled IMBD movie review dataset.
+- Train the model to automatically detect negative reviews using the polarity-labeled IMDb movie review dataset.
 
 *Tools used:*
 
