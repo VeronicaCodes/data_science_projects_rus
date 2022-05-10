@@ -2,9 +2,11 @@
 
 # Выполненные проекты онлайн-курса Яндекс.Практикум по специальности "Data Science Specialist" от 2021-2022 гг.
 
+ **(Scroll further down for the English version)**
+
 Ниже приведены проекты с выполненными задачами по анализу данных и машинному обучению с помощью SQL и Python.
 
-Список моих проектов ниже *(Scroll further down for the English version of my projects' descriptions)*:
+Список моих проектов ниже:
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
@@ -22,3 +24,26 @@
 | [12_Detecting_negative_reviews](https://github.com/VeronicaCodes/data_science_projects_rus/tree/master/Project_12_The_system_for_detecting_negative_reviews) | Разработка системы фильтрации и категоризации рецензий фильмов на положительные и отрицательные. | *Pandas*, *Matplotlib*, *Numpy*, *Math*, *Seaborn*, *Sklearn*, *Tqdm*, *Spacy*, *Re*, *Nltk*, *Lightgbm*|
 | [13_CV_system_for_predicting_customer_age](https://github.com/VeronicaCodes/data_science_projects_rus/tree/master/Project_13_Computer_vision_system_for_predicting_customer_age) | Система компьютерного зрения для обработки фотографий клиентов, которая поможет определить возраст, чтобы анализировать покупки и предлагать товары, которые могут заинтересовать покупателей в определенных возрастных группах. | *Pandas*, *Matplotlib*, *Numpy*, *Keras*, *Tensorflow* |
 | [14_Final_Forecast_churn_of_the_telecom_operator_clients](https://github.com/VeronicaCodes/data_science_projects_rus/tree/master/Project_14_Final_Forecast_churn_of_the_telecom_operator_clients) | Прогнозирование оттока клиентов телекоммуникационной компании. | *Pandas*, *Matplotlib*, *Seaborn*, *Numpy*, *Sklearn*, *Imblearn*, *Lightgbm*, *Xgboost*, *Catboost* |
+
+________________________________________________________________________________________________________________________________________
+
+# Completed projects of the Data Scientist professional training course as offered by the Yandex School of Data Analysis in the period from 2021 to 2022
+
+Below is the list with the completed data analysis and machine learning projects using SQL and Python.
+
+| Project's name | Description | Used libraries & tools | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [1_Analyzing_borrowers_risk_of_defaulting](https://github.com/VeronicaCodes/data_science_projects_rus/tree/master/Project_1_Analyzing_borrowers_risk_of_defaulting) | Finding out if a customer’s marital status and number of children has an impact on whether they will default on a loan. Report will be considered when building a credit scoring of a potential customer in a bank. | *Pandas*, *Nltk*, *pymystem3* |
+| [2_Research_on_apartment_sales_ads](https://github.com/VeronicaCodes/data_science_projects_rus/tree/master/Project_2_Research_on_apartment_sales_ads) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraudulent activity. | *Pandas*, *Matplotlib*, *Numpy*, *pymystem3* |
+| [3_Research_profitable_calling_plan](https://github.com/VeronicaCodes/data_science_projects_rus/tree/master/Project_3_Choosing_profitable_mobile_tariff_plan) |Identifying which of the calling plans is more profitable in order to adjust the advertising budget. | *Pandas*, *Matplotlib*, *Numpy*, *Scipy* |
+| [4_Research_of_the_game_success](https://github.com/VeronicaCodes/data_science_projects_rus/tree/master/Project_4_Research_of_the_game_success) | Finding the patterns that determine whether a video game succeeds or not. | *Pandas*, *Matplotlib*, *Numpy*, *Seaborn*, *Scipy* |
+| [5_Calling_plan_prediction](https://github.com/VeronicaCodes/data_science_projects_rus/tree/master/Project_5_ml_calling_plan_prediction) | Development of the model that would analyze mobile carrier subscribers' behavior and recommend one of the newer plans: Smart or Ultra. | *Pandas*, *Numpy*, *Sklearn*, *statsmodels*|
+| [6_Bank_customer_churn_prediction](https://github.com/VeronicaCodes/data_science_projects_rus/tree/master/Project_6_ml_bank_churn_prediction) | Predicting whether a customer will leave the bank soon, by analyzing the data on clients’ past behavior. | *Pandas*, *Numpy*, *Sklearn*,*statsmodels* |
+| [7_Choosing_the_best_oil_well_location](https://github.com/VeronicaCodes/data_science_projects_rus/tree/master/Project_7_choosing_oil_well_location_with_ml) | The machine learning model building that will help to pick the oil region with the highest profit margin with analysis potential profits and risks using the Bootstrap technique. | *Pandas*, *Numpy*, *Sklearn*,*statsmodels* |
+| [8_Predicting_the_amount_of_gold](https://github.com/VeronicaCodes/data_science_projects_rus/tree/master/Project_8_Predicting_the_amount_of_gold) | Preparation of the prototype of the machine learning model for Zyfra (heavy industry solutions), which should predict the amount of gold recovered from gold ore. | *Pandas*, *Matplotlib*, *Seaborn*, *Numpy*, *Sklearn*, *Scipy* |
+| [9_Developing_data_transforming_algorithm](https://github.com/VeronicaCodes/data_science_projects_rus/tree/master/Project_9_Developing_data_transforming_algorithm) | Development of the data transforming algorithm (data masking, based on an invertible matrix) for insurance company that would make it hard to recover personal information from the transformed data. | *Pandas*, *Matplotlib*, *Numpy*, *Sklearn*, *Scipy*, *Math*|
+| [10_Model_to_determine_the_car_value](https://github.com/VeronicaCodes/data_science_projects_rus/tree/master/Project_10_Model_to_determine_the_car_value) | Building the model to determine the car value for used car sales service, to develop an app to attract new customers. | *Pandas*, *Matplotlib*, *Seaborn*, *Numpy*, *Sklearn*, *Time*, *Lightgbm*, *Xgboost*, *Catboost* |
+| [11_Prediction_of_taxi_orders_for_the_next_hour](https://github.com/VeronicaCodes/data_science_projects_rus/tree/master/Project_11_Prediction_of_taxi_orders_for_the_next_hour) | Prediction the amount of taxi orders for the next hour at airports for attraction more drivers during peak hours. | *Pandas*, *Matplotlib*, *Seaborn*, *Numpy*, *Sklearn*, *Time*, *Lightgbm*, *Xgboost*, *Catboost*, *Statsmodels* |
+| [12_Detecting_negative_reviews](https://github.com/VeronicaCodes/data_science_projects_rus/tree/master/Project_12_The_system_for_detecting_negative_reviews) | Developing the system for filtering and categorizing movie reviews into positive and negative. | *Pandas*, *Matplotlib*, *Numpy*, *Math*, *Seaborn*, *Sklearn*, *Tqdm*, *Spacy*, *Re*, *Nltk*, *Lightgbm*|
+| [13_CV_system_for_predicting_customer_age](https://github.com/VeronicaCodes/data_science_projects_rus/tree/master/Project_13_Computer_vision_system_for_predicting_customer_age) | Computer vision system for processing customer photos, that can help to identify the age of customers in order to analyze purchases and offer products that may interest buyers in particular age groups. | *Pandas*, *Matplotlib*, *Numpy*, *Keras*, *Tensorflow* |
+| [14_Final_Forecast_churn_of_the_telecom_operator_clients](https://github.com/VeronicaCodes/data_science_projects_rus/tree/master/Project_14_Final_Forecast_churn_of_the_telecom_operator_clients) | Forecast churn of the telecom operator clients. | *Pandas*, *Matplotlib*, *Seaborn*, *Numpy*, *Sklearn*, *Imblearn*, *Lightgbm*, *Xgboost*, *Catboost* |
