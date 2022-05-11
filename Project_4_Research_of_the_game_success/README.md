@@ -3,7 +3,7 @@
 *Описание и цели:*  
 
 Интернет-магазин продает видеоигры по всему миру. Обзоры пользователей и экспертов, жанры, платформы (например, Xbox или PlayStation) и исторические данные о продажах игр доступны из открытых источников. 
-Нам необходимо определить закономерности, определяющих успешность видеоигры.Это позволяет нам вкладывать деньги в потенциально горячую новинку и планировать рекламные кампании.
+Нам необходимо определить закономерности, определяющих успешность видеоигры. Это позволяет нам вкладывать деньги в потенциально горячую новинку и планировать рекламные кампании.
 
 *Инструменты:*  
 
@@ -32,7 +32,7 @@ Pandas, Matplotlib, Numpy, Math, Scipy
 
 *Findings:*
 
-- The maximum values ​​of sales were reached in 2008-2009, then there was a decline. We hypothesize that the reason for this is that the mobile phones began to develop actively, the release of the game for consoles began to be delayed due to the complexity of their production.
+- The maximum values of sales were reached in 2008-2009, then there was a decline. We hypothesize that the reason for this is that the mobile phones began to develop actively, the release of the game for consoles began to be delayed due to the complexity of their production.
 - Many video game platforms have lost their popularity among users. Especially PS2, Wii, DS.
 - DS, PS2 were very popular but now they are gone from the market. Because of this we have new successors like PS4, WiiU, XOne - they are rapidly gaining popularity.
 - We have found that the average life of a game console is about 4-5 years.
